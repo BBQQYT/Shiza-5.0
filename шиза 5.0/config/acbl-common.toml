@@ -1,0 +1,46 @@
+
+#General settings
+[general]
+	#Set whether items will drop when using the Apples of Eden.
+	"IsDrop(B)" = true
+	#Set whether the Templars will attack monsters.
+	"IsTemplarsAttackMonsters(B)" = false
+	#Set whether the Templars will spawn in the wild.
+	"IsSpawnInTheWild(B)" = true
+	#Set whether the sword of Eden can attack players in creative mode.
+	"CanAttackCreateModePlayer(B)" = true
+	#If set to true, armor stand will not be generated in the dungeon but chest.
+	"IsGenerateChest(B)" = false
+	#Set whether Drinkers and Wine Barrels will spawn in the world.
+	"IsGenerateWineBarrel(B)" = true
+	#Set the maximum number of Eden Apples that this world can generate.
+	#Range: > 0
+	"EdenApples(I)" = 5
+	#Set the maximum number of Eden Shrouds that this world can generate.
+	#Range: > 0
+	"EdenShrouds(I)" = 2
+	#Set the maximum number of Eden Swords that this world can generate.
+	#Range: > 0
+	"EdenSwords(I)" = 1
+	#Set the maximum number of Saff of Hermes that this world can generate.
+	#Range: > 0
+	"SaffOfHermes(I)" = 1
+	#Set the maximum number of Spear of Leonidas that this world can generate.
+	#Range: > 0
+	"SpearOfLeonidas(I)" = 1
+	#Set the maximum number of Poseidons Trident that this world can generate.
+	#Range: > 0
+	"PoseidonsTrident(I)" = 1
+	#Set the maximum number of Mjolnir that this world can generate.
+	#Range: > 0
+	"Mjolnir(I)" = 1
+	#Set the number of attempts to generate a Templar Camp each chunk.
+	#Range: > 0
+	"CampTimes(I)" = 3
+	#Set the number of attempts to generate a Drinker and a Wine Barrel each chunk.
+	#Range: > 0
+	"BarrelTimes(I)" = 7
+	#Set the probability of each chunk TRYING to generate a Templar camp.
+	#Range: 0.0 ~ 1.0
+	"GenerationProbability(D)" = 0.8
+

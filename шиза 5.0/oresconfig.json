@@ -1,0 +1,17 @@
+{
+  "welcome_message": "Welcome to our server ",
+  "enable_debug": true,
+  "enable_welcome": true,
+  "enable_all_ores": true,
+  "enable_all_ingots": true,
+  "enable_all_blocks": true,
+  "enable_all_armors": true,
+  "enable_all_swords_bows": true,
+  "enable_all_foods": true,
+  "enable_all_paintings": true,
+  "enable_all_poisons": true,
+  "enable_all_powders": true,
+  "enable_all_tools": true,
+  "enable_all_recipes": true,
+  "enable_all_advancements": true
+}

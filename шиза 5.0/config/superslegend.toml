@@ -1,0 +1,64 @@
+#Players health they will start with. One Minecraft heart is 2, and a full bar is 20. Its Recommended you only use Even numbers.
+#Range: 1.0 ~ 40.0
+playerMaxHealth = 20.0
+#Activate the Temperature System.
+temperature = true
+#Consume the Song Sheet?
+songSheetConsumed = true
+#Creepers transform into Charged Creepers with Shock Arrows.
+shockArrowCreeper = true
+#Whether bombs & bomb arrows will cause block destruction
+explosivegriefing = true
+#The maximum range of travel before returning to player.
+#Range: 1 ~ 200
+RegularBoomerangRange = 28
+#The amount of damage that is done when hitting any living entity.
+#Range: 1 ~ 500
+RegularBoomerangDamage = 5
+#The Regular Boomerang will follow your mouse till it hits it's range limit.
+RegularBoomerangFollows = false
+#The maximum range of travel before returning to player.
+#Range: 1 ~ 200
+MagicBoomerangRange = 19
+#The amount of damage that is done when hitting any living entity.
+#Range: 1 ~ 500
+MagicBoomerangDamage = 6
+#The Magic Boomerang will follow your mouse till it hits it's range limit.
+MagicBoomerangFollows = false
+#The maximum range of travel before returning to player.
+#Range: 1 ~ 200
+WWBoomerangRange = 40
+#The amount of damage that is done when hitting any living entity.
+#Range: 1 ~ 500
+WWBoomerangDamage = 5
+#The WW Boomerang will follow your mouse till it hits it's range limit.
+WWBoomerangFollows = true
+#The maximum range of travel before returning to player.
+#Range: 1 ~ 200
+GaleBoomerangRange = 40
+#The amount of damage that is done when hitting any living entity.
+#Range: 1 ~ 500
+GaleBoomerangDamage = 5
+#The Gale Boomerang will follow your mouse till it hits it's range limit.
+GaleBoomerangFollows = true
+#Comes back to the player after picking up items.
+turnAroundItem = true
+#Comes back to the player after hitting a mob.
+turnAroundMob = true
+#Comes back to player after hitting a button.
+turnAroundButton = true
+#Can boomerang break torches.
+breaksTorches = true
+#Can boomerang break Flowers.
+breaksFlowers = true
+#Can boomerang break Tall Grass.
+breaksTallGrass = true
+#Can boomerang switch levers on and off.
+activatesLevers = true
+#Can boomerang activate/push buttons.
+activatesButtons = true
+#Can boomerang activate regular and lightweight pressure plates.
+activatesPressurePlates = true
+#Can boomerang activate/trigger tripwire(s).
+activatesTripWire = true
+
