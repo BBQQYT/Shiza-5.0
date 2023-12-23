@@ -4,7 +4,7 @@ var modStatistics =
     {
         "resourceDomain": "tac",
         "pixelCount": 17201870,
-        "percentOfTextureMap": 24.70901107788086,
+        "percentOfTextureMap": 24.708465576171875,
         "modName": "Timeless and Classics Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -13,7 +13,7 @@ var modStatistics =
     {
         "resourceDomain": "super_random_items_mod",
         "pixelCount": 14276791,
-        "percentOfTextureMap": 20.50738525390625,
+        "percentOfTextureMap": 20.506933212280273,
         "modName": "Super random items mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -22,7 +22,7 @@ var modStatistics =
     {
         "resourceDomain": "ava",
         "pixelCount": 13120768,
-        "percentOfTextureMap": 18.846858978271484,
+        "percentOfTextureMap": 18.84644317626953,
         "modName": "A.V.A - Alliance of Valiant Arms",
         "url": "",
         "issueTrackerUrl": "",
@@ -31,7 +31,7 @@ var modStatistics =
     {
         "resourceDomain": "dothack",
         "pixelCount": 11195412,
-        "percentOfTextureMap": 16.081249237060547,
+        "percentOfTextureMap": 16.080894470214844,
         "modName": "AzureDoom dotHack Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -40,7 +40,7 @@ var modStatistics =
     {
         "resourceDomain": "devil_may_cry_weapons_reborn",
         "pixelCount": 2022432,
-        "percentOfTextureMap": 2.905050039291382,
+        "percentOfTextureMap": 2.9049861431121826,
         "modName": "Devil May Cry Weapons Reborn",
         "url": "",
         "issueTrackerUrl": "",
@@ -49,7 +49,7 @@ var modStatistics =
     {
         "resourceDomain": "apexguns",
         "pixelCount": 1912832,
-        "percentOfTextureMap": 2.747619152069092,
+        "percentOfTextureMap": 2.74755859375,
         "modName": "Apex Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -58,7 +58,7 @@ var modStatistics =
     {
         "resourceDomain": "stabxmodernguns",
         "pixelCount": 1274624,
-        "percentOfTextureMap": 1.830888032913208,
+        "percentOfTextureMap": 1.8308477401733398,
         "modName": "Stabx Modern Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -67,7 +67,7 @@ var modStatistics =
     {
         "resourceDomain": "terracraft",
         "pixelCount": 850981,
-        "percentOfTextureMap": 1.2223612070083618,
+        "percentOfTextureMap": 1.2223342657089233,
         "modName": "TerraCraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -76,7 +76,7 @@ var modStatistics =
     {
         "resourceDomain": "tmtmcoresandmore",
         "pixelCount": 801536,
-        "percentOfTextureMap": 1.151337742805481,
+        "percentOfTextureMap": 1.1513123512268066,
         "modName": "TmTmc-OresAndMore",
         "url": "",
         "issueTrackerUrl": "",
@@ -85,7 +85,7 @@ var modStatistics =
     {
         "resourceDomain": "funmod",
         "pixelCount": 777081,
-        "percentOfTextureMap": 1.1162102222442627,
+        "percentOfTextureMap": 1.1161855459213257,
         "modName": "Fun Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -94,7 +94,7 @@ var modStatistics =
     {
         "resourceDomain": "fallout_inspired_power_armor",
         "pixelCount": 524800,
-        "percentOfTextureMap": 0.7538301944732666,
+        "percentOfTextureMap": 0.7538135647773743,
         "modName": "Power armor",
         "url": "",
         "issueTrackerUrl": "",
@@ -103,7 +103,7 @@ var modStatistics =
     {
         "resourceDomain": "gunsrpg",
         "pixelCount": 487168,
-        "percentOfTextureMap": 0.6997750401496887,
+        "percentOfTextureMap": 0.6997596025466919,
         "modName": "Guns RPG",
         "url": "",
         "issueTrackerUrl": "",
@@ -112,7 +112,7 @@ var modStatistics =
     {
         "resourceDomain": "ms",
         "pixelCount": 454144,
-        "percentOfTextureMap": 0.6523389220237732,
+        "percentOfTextureMap": 0.6523244976997375,
         "modName": "Mo' Shiz Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -121,7 +121,7 @@ var modStatistics =
     {
         "resourceDomain": "divinerpg",
         "pixelCount": 401408,
-        "percentOfTextureMap": 0.5765881538391113,
+        "percentOfTextureMap": 0.5765754580497742,
         "modName": "DivineRPG",
         "url": "",
         "issueTrackerUrl": "",
@@ -130,7 +130,7 @@ var modStatistics =
     {
         "resourceDomain": "simple_guns_reworked",
         "pixelCount": 365632,
-        "percentOfTextureMap": 0.5251989960670471,
+        "percentOfTextureMap": 0.5251874327659607,
         "modName": "simple_guns_reworked",
         "url": "",
         "issueTrackerUrl": "",
@@ -139,7 +139,7 @@ var modStatistics =
     {
         "resourceDomain": "additionalguns",
         "pixelCount": 343040,
-        "percentOfTextureMap": 0.49274754524230957,
+        "percentOfTextureMap": 0.49273666739463806,
         "modName": "Additional Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -148,7 +148,7 @@ var modStatistics =
     {
         "resourceDomain": "acbl",
         "pixelCount": 324352,
-        "percentOfTextureMap": 0.4659038484096527,
+        "percentOfTextureMap": 0.46589356660842896,
         "modName": "Assassin's Creed Blocklegend",
         "url": "",
         "issueTrackerUrl": "",
@@ -157,7 +157,7 @@ var modStatistics =
     {
         "resourceDomain": "alboe",
         "pixelCount": 320023,
-        "percentOfTextureMap": 0.4596855938434601,
+        "percentOfTextureMap": 0.45967546105384827,
         "modName": "A little bit of everything",
         "url": "",
         "issueTrackerUrl": "",
@@ -166,7 +166,7 @@ var modStatistics =
     {
         "resourceDomain": "minecraft",
         "pixelCount": 303616,
-        "percentOfTextureMap": 0.43611833453178406,
+        "percentOfTextureMap": 0.4361087381839752,
         "modName": "Minecraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -175,7 +175,7 @@ var modStatistics =
     {
         "resourceDomain": "pneumaticcraft",
         "pixelCount": 280576,
-        "percentOfTextureMap": 0.403023362159729,
+        "percentOfTextureMap": 0.40301448106765747,
         "modName": "PneumaticCraft: Repressurized",
         "url": "",
         "issueTrackerUrl": "",
@@ -184,7 +184,7 @@ var modStatistics =
     {
         "resourceDomain": "wildwestguns2",
         "pixelCount": 269312,
-        "percentOfTextureMap": 0.38684359192848206,
+        "percentOfTextureMap": 0.3868350684642792,
         "modName": "WildWestGuns2",
         "url": "",
         "issueTrackerUrl": "",
@@ -193,7 +193,7 @@ var modStatistics =
     {
         "resourceDomain": "frys_things",
         "pixelCount": 199424,
-        "percentOfTextureMap": 0.2864554822444916,
+        "percentOfTextureMap": 0.2864491641521454,
         "modName": "Fry's Things",
         "url": "",
         "issueTrackerUrl": "",
@@ -201,8 +201,8 @@ var modStatistics =
     },
     {
         "resourceDomain": "twilightforest",
-        "pixelCount": 156672,
-        "percentOfTextureMap": 0.22504588961601257,
+        "pixelCount": 158208,
+        "percentOfTextureMap": 0.2272472083568573,
         "modName": "The Twilight Forest",
         "url": "",
         "issueTrackerUrl": "",
@@ -211,7 +211,7 @@ var modStatistics =
     {
         "resourceDomain": "tetra",
         "pixelCount": 146688,
-        "percentOfTextureMap": 0.2107047289609909,
+        "percentOfTextureMap": 0.21070007979869843,
         "modName": "Tetra",
         "url": "",
         "issueTrackerUrl": "",
@@ -220,7 +220,7 @@ var modStatistics =
     {
         "resourceDomain": "xercamod",
         "pixelCount": 121856,
-        "percentOfTextureMap": 0.17503570020198822,
+        "percentOfTextureMap": 0.17503182590007782,
         "modName": "Xerca Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -229,7 +229,7 @@ var modStatistics =
     {
         "resourceDomain": "doom",
         "pixelCount": 104448,
-        "percentOfTextureMap": 0.15003059804439545,
+        "percentOfTextureMap": 0.1500272899866104,
         "modName": "Doom Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -238,7 +238,7 @@ var modStatistics =
     {
         "resourceDomain": "securitycraft",
         "pixelCount": 98304,
-        "percentOfTextureMap": 0.14120526611804962,
+        "percentOfTextureMap": 0.1412021517753601,
         "modName": "SecurityCraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -247,7 +247,7 @@ var modStatistics =
     {
         "resourceDomain": "ninjaworld",
         "pixelCount": 96512,
-        "percentOfTextureMap": 0.138631209731102,
+        "percentOfTextureMap": 0.13862815499305725,
         "modName": "NinjaWorld",
         "url": "",
         "issueTrackerUrl": "",
@@ -256,7 +256,7 @@ var modStatistics =
     {
         "resourceDomain": "legendarium",
         "pixelCount": 96000,
-        "percentOfTextureMap": 0.13789576292037964,
+        "percentOfTextureMap": 0.1378927230834961,
         "modName": "Legendary Item",
         "url": "",
         "issueTrackerUrl": "",
@@ -265,7 +265,7 @@ var modStatistics =
     {
         "resourceDomain": "mvw",
         "pixelCount": 93696,
-        "percentOfTextureMap": 0.13458627462387085,
+        "percentOfTextureMap": 0.13458329439163208,
         "modName": "MoreVanillaWeapons",
         "url": "",
         "issueTrackerUrl": "",
@@ -274,7 +274,7 @@ var modStatistics =
     {
         "resourceDomain": "upgradednetherite",
         "pixelCount": 88832,
-        "percentOfTextureMap": 0.1275995522737503,
+        "percentOfTextureMap": 0.12759673595428467,
         "modName": "Upgraded Netherite",
         "url": "",
         "issueTrackerUrl": "",
@@ -283,7 +283,7 @@ var modStatistics =
     {
         "resourceDomain": "netherite_plus",
         "pixelCount": 87296,
-        "percentOfTextureMap": 0.12539321184158325,
+        "percentOfTextureMap": 0.1253904551267624,
         "modName": "Netherite Plus",
         "url": "",
         "issueTrackerUrl": "",
@@ -292,7 +292,7 @@ var modStatistics =
     {
         "resourceDomain": "moguns",
         "pixelCount": 75524,
-        "percentOfTextureMap": 0.10848374664783478,
+        "percentOfTextureMap": 0.10848135501146317,
         "modName": "Mo' Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -301,7 +301,7 @@ var modStatistics =
     {
         "resourceDomain": "gobber2",
         "pixelCount": 48128,
-        "percentOfTextureMap": 0.0691317468881607,
+        "percentOfTextureMap": 0.06913021951913834,
         "modName": "Gobber 2",
         "url": "",
         "issueTrackerUrl": "",
@@ -310,7 +310,7 @@ var modStatistics =
     {
         "resourceDomain": "dreadsteel",
         "pixelCount": 47360,
-        "percentOfTextureMap": 0.06802857667207718,
+        "percentOfTextureMap": 0.0680270791053772,
         "modName": "Dreadsteel",
         "url": "",
         "issueTrackerUrl": "",
@@ -319,7 +319,7 @@ var modStatistics =
     {
         "resourceDomain": "projecte",
         "pixelCount": 46848,
-        "percentOfTextureMap": 0.06729313731193542,
+        "percentOfTextureMap": 0.06729164719581604,
         "modName": "ProjectE",
         "url": "",
         "issueTrackerUrl": "",
@@ -328,7 +328,7 @@ var modStatistics =
     {
         "resourceDomain": "useless_sword",
         "pixelCount": 43776,
-        "percentOfTextureMap": 0.06288047134876251,
+        "percentOfTextureMap": 0.06287908554077148,
         "modName": "Useless Sword",
         "url": "",
         "issueTrackerUrl": "",
@@ -337,7 +337,7 @@ var modStatistics =
     {
         "resourceDomain": "pirates_armoury",
         "pixelCount": 39200,
-        "percentOfTextureMap": 0.056307438760995865,
+        "percentOfTextureMap": 0.05630619451403618,
         "modName": "Pirates Armoury",
         "url": "",
         "issueTrackerUrl": "",
@@ -346,7 +346,7 @@ var modStatistics =
     {
         "resourceDomain": "oldguns",
         "pixelCount": 38400,
-        "percentOfTextureMap": 0.055158305913209915,
+        "percentOfTextureMap": 0.05515709146857262,
         "modName": "Old Guns Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -355,7 +355,7 @@ var modStatistics =
     {
         "resourceDomain": "archaicguns",
         "pixelCount": 36608,
-        "percentOfTextureMap": 0.05258425325155258,
+        "percentOfTextureMap": 0.05258309096097946,
         "modName": "Archaic Guns",
         "url": "",
         "issueTrackerUrl": "",
@@ -364,7 +364,7 @@ var modStatistics =
     {
         "resourceDomain": "medieval_craft_weapons",
         "pixelCount": 34952,
-        "percentOfTextureMap": 0.05020555108785629,
+        "percentOfTextureMap": 0.05020444467663765,
         "modName": "Medieval_craft_weapons",
         "url": "",
         "issueTrackerUrl": "",
@@ -373,7 +373,7 @@ var modStatistics =
     {
         "resourceDomain": "tools_complement",
         "pixelCount": 34048,
-        "percentOfTextureMap": 0.04890703409910202,
+        "percentOfTextureMap": 0.048905953764915466,
         "modName": "Tool's Complement",
         "url": "",
         "issueTrackerUrl": "",
@@ -382,7 +382,7 @@ var modStatistics =
     {
         "resourceDomain": "toyguns",
         "pixelCount": 32768,
-        "percentOfTextureMap": 0.04706842079758644,
+        "percentOfTextureMap": 0.04706738516688347,
         "modName": "Mr Pineapple's Toy Gun Mod Addon",
         "url": "",
         "issueTrackerUrl": "",
@@ -391,7 +391,7 @@ var modStatistics =
     {
         "resourceDomain": "mcsaforge",
         "pixelCount": 26624,
-        "percentOfTextureMap": 0.038243092596530914,
+        "percentOfTextureMap": 0.03824225068092346,
         "modName": "MC Story Mode Armor - Forge",
         "url": "",
         "issueTrackerUrl": "",
@@ -400,7 +400,7 @@ var modStatistics =
     {
         "resourceDomain": "allthemodium",
         "pixelCount": 23040,
-        "percentOfTextureMap": 0.03309498354792595,
+        "percentOfTextureMap": 0.03309425339102745,
         "modName": "Allthemodium",
         "url": "",
         "issueTrackerUrl": "",
@@ -409,7 +409,7 @@ var modStatistics =
     {
         "resourceDomain": "advancedcombat",
         "pixelCount": 19456,
-        "percentOfTextureMap": 0.027946876361966133,
+        "percentOfTextureMap": 0.027946259826421738,
         "modName": "Advanced Combat (Revitalized)",
         "url": "",
         "issueTrackerUrl": "",
@@ -418,7 +418,7 @@ var modStatistics =
     {
         "resourceDomain": "endreborn",
         "pixelCount": 17152,
-        "percentOfTextureMap": 0.02463737688958645,
+        "percentOfTextureMap": 0.024636832997202873,
         "modName": "End: Reborn",
         "url": "",
         "issueTrackerUrl": "",
@@ -427,7 +427,7 @@ var modStatistics =
     {
         "resourceDomain": "projectex",
         "pixelCount": 16896,
-        "percentOfTextureMap": 0.024269655346870422,
+        "percentOfTextureMap": 0.024269118905067444,
         "modName": "ProjectEX",
         "url": "",
         "issueTrackerUrl": "",
@@ -436,7 +436,7 @@ var modStatistics =
     {
         "resourceDomain": "xtraarrows",
         "pixelCount": 16640,
-        "percentOfTextureMap": 0.023901933804154396,
+        "percentOfTextureMap": 0.023901406675577164,
         "modName": "Xtra Arrows",
         "url": "",
         "issueTrackerUrl": "",
@@ -445,7 +445,7 @@ var modStatistics =
     {
         "resourceDomain": "gun",
         "pixelCount": 16384,
-        "percentOfTextureMap": 0.02353421039879322,
+        "percentOfTextureMap": 0.023533692583441734,
         "modName": "Aged Guns Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -454,7 +454,7 @@ var modStatistics =
     {
         "resourceDomain": "dyeableironarmor",
         "pixelCount": 16384,
-        "percentOfTextureMap": 0.02353421039879322,
+        "percentOfTextureMap": 0.023533692583441734,
         "modName": "Dyeable Iron Armor",
         "url": "",
         "issueTrackerUrl": "",
@@ -463,7 +463,7 @@ var modStatistics =
     {
         "resourceDomain": "xplosives",
         "pixelCount": 13888,
-        "percentOfTextureMap": 0.019948920235037804,
+        "percentOfTextureMap": 0.019948480650782585,
         "modName": "XPlosives",
         "url": "",
         "issueTrackerUrl": "",
@@ -472,7 +472,7 @@ var modStatistics =
     {
         "resourceDomain": "fancy_battleaxes",
         "pixelCount": 13312,
-        "percentOfTextureMap": 0.019121546298265457,
+        "percentOfTextureMap": 0.01912112534046173,
         "modName": "Fancy Battleaxes",
         "url": "",
         "issueTrackerUrl": "",
@@ -481,7 +481,7 @@ var modStatistics =
     {
         "resourceDomain": "cofh_core",
         "pixelCount": 12544,
-        "percentOfTextureMap": 0.01801837980747223,
+        "percentOfTextureMap": 0.018017983064055443,
         "modName": "CoFH Core",
         "url": "",
         "issueTrackerUrl": "",
@@ -490,7 +490,7 @@ var modStatistics =
     {
         "resourceDomain": "cgm",
         "pixelCount": 12288,
-        "percentOfTextureMap": 0.017650658264756203,
+        "percentOfTextureMap": 0.017650268971920013,
         "modName": "MrCrayfish's Gun Mod",
         "url": "",
         "issueTrackerUrl": "",
@@ -499,7 +499,7 @@ var modStatistics =
     {
         "resourceDomain": "cosmetic_netherite",
         "pixelCount": 12032,
-        "percentOfTextureMap": 0.017282936722040176,
+        "percentOfTextureMap": 0.017282554879784584,
         "modName": "Cosmetic Netherite",
         "url": "",
         "issueTrackerUrl": "",
@@ -508,7 +508,7 @@ var modStatistics =
     {
         "resourceDomain": "immersive_armors",
         "pixelCount": 12032,
-        "percentOfTextureMap": 0.017282936722040176,
+        "percentOfTextureMap": 0.017282554879784584,
         "modName": "Immersive Armors",
         "url": "",
         "issueTrackerUrl": "",
@@ -517,7 +517,7 @@ var modStatistics =
     {
         "resourceDomain": "advancednetherite",
         "pixelCount": 11264,
-        "percentOfTextureMap": 0.016179770231246948,
+        "percentOfTextureMap": 0.016179412603378296,
         "modName": "Advanced Netherite",
         "url": "",
         "issueTrackerUrl": "",
@@ -526,7 +526,7 @@ var modStatistics =
     {
         "resourceDomain": "oresbia",
         "pixelCount": 9984,
-        "percentOfTextureMap": 0.014341159723699093,
+        "percentOfTextureMap": 0.014340843074023724,
         "modName": "Oresbia",
         "url": "",
         "issueTrackerUrl": "",
@@ -535,7 +535,7 @@ var modStatistics =
     {
         "resourceDomain": "undead_expansion",
         "pixelCount": 9728,
-        "percentOfTextureMap": 0.013973438180983067,
+        "percentOfTextureMap": 0.013973129913210869,
         "modName": "Undead Expansion",
         "url": "",
         "issueTrackerUrl": "",
@@ -544,7 +544,7 @@ var modStatistics =
     {
         "resourceDomain": "gildedingot",
         "pixelCount": 9712,
-        "percentOfTextureMap": 0.013950455002486706,
+        "percentOfTextureMap": 0.013950147666037083,
         "modName": "GildedIngot",
         "url": "",
         "issueTrackerUrl": "",
@@ -553,7 +553,7 @@ var modStatistics =
     {
         "resourceDomain": "morebows",
         "pixelCount": 8192,
-        "percentOfTextureMap": 0.01176710519939661,
+        "percentOfTextureMap": 0.011766846291720867,
         "modName": "More Bows Restrung",
         "url": "",
         "issueTrackerUrl": "",
@@ -562,7 +562,7 @@ var modStatistics =
     {
         "resourceDomain": "steel",
         "pixelCount": 6656,
-        "percentOfTextureMap": 0.009560773149132729,
+        "percentOfTextureMap": 0.009560562670230865,
         "modName": "Modest Steel",
         "url": "",
         "issueTrackerUrl": "",
@@ -571,7 +571,7 @@ var modStatistics =
     {
         "resourceDomain": "liaveres",
         "pixelCount": 5376,
-        "percentOfTextureMap": 0.0077221631072461605,
+        "percentOfTextureMap": 0.007721992675215006,
         "modName": "LiaVeres",
         "url": "",
         "issueTrackerUrl": "",
@@ -580,7 +580,7 @@ var modStatistics =
     {
         "resourceDomain": "nzgexpansion",
         "pixelCount": 5120,
-        "percentOfTextureMap": 0.007354441098868847,
+        "percentOfTextureMap": 0.0073542785830795765,
         "modName": "NineZero's Gun Expansion",
         "url": "",
         "issueTrackerUrl": "",
@@ -589,7 +589,7 @@ var modStatistics =
     {
         "resourceDomain": "hats",
         "pixelCount": 4608,
-        "percentOfTextureMap": 0.00661899708211422,
+        "percentOfTextureMap": 0.006618850864470005,
         "modName": "Hats+",
         "url": "",
         "issueTrackerUrl": "",
@@ -598,7 +598,7 @@ var modStatistics =
     {
         "resourceDomain": "piglin_expansion",
         "pixelCount": 4096,
-        "percentOfTextureMap": 0.005883552599698305,
+        "percentOfTextureMap": 0.005883423145860434,
         "modName": "Piglin Expansion",
         "url": "",
         "issueTrackerUrl": "",
@@ -607,7 +607,7 @@ var modStatistics =
     {
         "resourceDomain": "slashblade",
         "pixelCount": 4096,
-        "percentOfTextureMap": 0.005883552599698305,
+        "percentOfTextureMap": 0.005883423145860434,
         "modName": "Slash Blade",
         "url": "",
         "issueTrackerUrl": "",
@@ -616,7 +616,7 @@ var modStatistics =
     {
         "resourceDomain": "ethereal_debris_",
         "pixelCount": 4096,
-        "percentOfTextureMap": 0.005883552599698305,
+        "percentOfTextureMap": 0.005883423145860434,
         "modName": "ethereal debris_",
         "url": "",
         "issueTrackerUrl": "",
@@ -625,7 +625,7 @@ var modStatistics =
     {
         "resourceDomain": "alchemic_armoury",
         "pixelCount": 4096,
-        "percentOfTextureMap": 0.005883552599698305,
+        "percentOfTextureMap": 0.005883423145860434,
         "modName": "Alchemic Armoury",
         "url": "",
         "issueTrackerUrl": "",
@@ -634,7 +634,7 @@ var modStatistics =
     {
         "resourceDomain": "curios",
         "pixelCount": 4096,
-        "percentOfTextureMap": 0.005883552599698305,
+        "percentOfTextureMap": 0.005883423145860434,
         "modName": "Curios API",
         "url": "",
         "issueTrackerUrl": "",
@@ -643,7 +643,7 @@ var modStatistics =
     {
         "resourceDomain": "blazegear",
         "pixelCount": 3328,
-        "percentOfTextureMap": 0.004780386574566364,
+        "percentOfTextureMap": 0.004780281335115433,
         "modName": "Blaze Gear",
         "url": "",
         "issueTrackerUrl": "",
@@ -652,7 +652,7 @@ var modStatistics =
     {
         "resourceDomain": "berserk_arsenal",
         "pixelCount": 3328,
-        "percentOfTextureMap": 0.004780386574566364,
+        "percentOfTextureMap": 0.004780281335115433,
         "modName": "Berserk Arsenal",
         "url": "",
         "issueTrackerUrl": "",
@@ -661,7 +661,7 @@ var modStatistics =
     {
         "resourceDomain": "ironjetpacks",
         "pixelCount": 2560,
-        "percentOfTextureMap": 0.0036772205494344234,
+        "percentOfTextureMap": 0.0036771392915397882,
         "modName": "Iron Jetpacks",
         "url": "",
         "issueTrackerUrl": "",
@@ -670,7 +670,7 @@ var modStatistics =
     {
         "resourceDomain": "gunswithoutroses",
         "pixelCount": 2560,
-        "percentOfTextureMap": 0.0036772205494344234,
+        "percentOfTextureMap": 0.0036771392915397882,
         "modName": "Guns Without Roses",
         "url": "",
         "issueTrackerUrl": "",
@@ -679,7 +679,7 @@ var modStatistics =
     {
         "resourceDomain": "medieval_craft_structures",
         "pixelCount": 2304,
-        "percentOfTextureMap": 0.00330949854105711,
+        "percentOfTextureMap": 0.0033094254322350025,
         "modName": "Medieval craft_structures",
         "url": "",
         "issueTrackerUrl": "",
@@ -688,7 +688,7 @@ var modStatistics =
     {
         "resourceDomain": "trapcraft",
         "pixelCount": 2304,
-        "percentOfTextureMap": 0.00330949854105711,
+        "percentOfTextureMap": 0.0033094254322350025,
         "modName": "Trapcraft",
         "url": "",
         "issueTrackerUrl": "",
@@ -697,7 +697,7 @@ var modStatistics =
     {
         "resourceDomain": "baubles",
         "pixelCount": 1792,
-        "percentOfTextureMap": 0.002574054291471839,
+        "percentOfTextureMap": 0.0025739974807947874,
         "modName": "Baubles",
         "url": "",
         "issueTrackerUrl": "",
@@ -706,7 +706,7 @@ var modStatistics =
     {
         "resourceDomain": "elementalswords",
         "pixelCount": 1280,
-        "percentOfTextureMap": 0.0018386102747172117,
+        "percentOfTextureMap": 0.0018385696457698941,
         "modName": "Elemental Swords",
         "url": "",
         "issueTrackerUrl": "",
@@ -715,7 +715,7 @@ var modStatistics =
     {
         "resourceDomain": "landmanager",
         "pixelCount": 768,
-        "percentOfTextureMap": 0.0011031661415472627,
+        "percentOfTextureMap": 0.0011031418107450008,
         "modName": "Land Manager",
         "url": "",
         "issueTrackerUrl": "",
@@ -724,7 +724,7 @@ var modStatistics =
     {
         "resourceDomain": "forge",
         "pixelCount": 512,
-        "percentOfTextureMap": 7.354440749622881E-4,
+        "percentOfTextureMap": 7.354278932325542E-4,
         "modName": "Forge",
         "url": "",
         "issueTrackerUrl": "",
@@ -733,7 +733,7 @@ var modStatistics =
     {
         "resourceDomain": "feederhelmet",
         "pixelCount": 512,
-        "percentOfTextureMap": 7.354440749622881E-4,
+        "percentOfTextureMap": 7.354278932325542E-4,
         "modName": "AutoFeederHelmet",
         "url": "",
         "issueTrackerUrl": "",
@@ -742,7 +742,7 @@ var modStatistics =
     {
         "resourceDomain": "patchouli",
         "pixelCount": 512,
-        "percentOfTextureMap": 7.354440749622881E-4,
+        "percentOfTextureMap": 7.354278932325542E-4,
         "modName": "Patchouli",
         "url": "",
         "issueTrackerUrl": "",
@@ -751,7 +751,7 @@ var modStatistics =
     {
         "resourceDomain": "totemized_armors",
         "pixelCount": 256,
-        "percentOfTextureMap": 3.6772203748114407E-4,
+        "percentOfTextureMap": 3.677139466162771E-4,
         "modName": "Totemized Armors",
         "url": "",
         "issueTrackerUrl": "",
@@ -760,7 +760,7 @@ var modStatistics =
     {
         "resourceDomain": "longfallboots",
         "pixelCount": 256,
-        "percentOfTextureMap": 3.6772203748114407E-4,
+        "percentOfTextureMap": 3.677139466162771E-4,
         "modName": "Long Fall Boots",
         "url": "",
         "issueTrackerUrl": "",
