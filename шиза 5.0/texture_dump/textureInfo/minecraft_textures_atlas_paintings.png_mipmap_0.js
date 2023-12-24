@@ -122,20 +122,20 @@ var textureData =
         "height": 16
     },
     {
-        "name": "ms:painting/apple",
-        "animated": false,
-        "x": 1568,
-        "y": 1216,
-        "width": 64,
-        "height": 64
-    },
-    {
         "name": "tmtmcoresandmore:painting/ama_dablam_256x_256",
         "animated": false,
         "x": 704,
         "y": 0,
         "width": 256,
         "height": 256
+    },
+    {
+        "name": "ms:painting/apple",
+        "animated": false,
+        "x": 1568,
+        "y": 1216,
+        "width": 64,
+        "height": 64
     },
     {
         "name": "tmtmcoresandmore:painting/pyramids_128x_64",
@@ -322,20 +322,20 @@ var textureData =
         "height": 128
     },
     {
-        "name": "ms:painting/one",
-        "animated": false,
-        "x": 832,
-        "y": 1280,
-        "width": 16,
-        "height": 32
-    },
-    {
         "name": "tmtmcoresandmore:painting/dolphins_128x_128",
         "animated": false,
         "x": 1472,
         "y": 0,
         "width": 256,
         "height": 256
+    },
+    {
+        "name": "ms:painting/one",
+        "animated": false,
+        "x": 832,
+        "y": 1280,
+        "width": 16,
+        "height": 32
     },
     {
         "name": "tmtmcoresandmore:painting/graffiti_32x_32",

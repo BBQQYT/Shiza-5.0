@@ -74,18 +74,18 @@ var textureData =
         "height": 8
     },
     {
-        "name": "minecraft:entity/banner/mojang",
-        "animated": false,
-        "x": 24,
-        "y": 8,
-        "width": 8,
-        "height": 8
-    },
-    {
         "name": "netherite_plus:entity/netherite_shulker/netherite_shulker",
         "animated": false,
         "x": 88,
         "y": 16,
+        "width": 8,
+        "height": 8
+    },
+    {
+        "name": "minecraft:entity/banner/mojang",
+        "animated": false,
+        "x": 24,
+        "y": 8,
         "width": 8,
         "height": 8
     },

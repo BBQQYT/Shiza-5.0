@@ -6402,18 +6402,18 @@ var textureData =
         "height": 4
     },
     {
-        "name": "twilightforest:items/minotaur_axe",
-        "animated": false,
-        "x": 1124,
-        "y": 1108,
-        "width": 4,
-        "height": 4
-    },
-    {
         "name": "alboe:items/gear",
         "animated": false,
         "x": 2188,
         "y": 1104,
+        "width": 4,
+        "height": 4
+    },
+    {
+        "name": "twilightforest:items/minotaur_axe",
+        "animated": false,
+        "x": 1124,
+        "y": 1108,
         "width": 4,
         "height": 4
     },
